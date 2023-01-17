@@ -127,19 +127,33 @@ span{
 
 .spunta{
     border-radius: 50%;
-    border: 1px solid #9ad7ca;
+    border: 2px solid #9ad7ca;
     color: #9ad7ca;
+    display: inline-block;
+    line-height: 16px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-right: 10px;
     margin-left: 3px;
-    line-height: 50px;
+    font-size: 12px;
 }
 .croce{
     border-radius: 50%;
-    border: 1px solid #eb5e57;
+    border: 2px solid #eb5e57;
     color: #eb5e57;
+    display: inline-block;
+    line-height: 16px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-right: 10px;
     margin-left: 3px;
-    line-height: 50px;
-    text-align: center;    
+    font-size: 12px;
+
 
 }
